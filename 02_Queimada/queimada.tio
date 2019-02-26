@@ -1,0 +1,19 @@
+ler num_lin, num_col
+criar a matriz
+
+ver onde o fogo comeca
+ler onde inicia a queimar ini_lin, ini_col
+
+preencher a matriz com "#" ou "."
+usar dois for
+
+verificar se tem alguma arvore ao lado (tanto esquerdo como direito)
+verificar se tem alguma arvore em cima ou em baixo
+
+se tiver queima
+se nao limpo
+
+def tocar_fogo(mat, l, c):
+    se pos l e c nao existe
+        retorne
+    se mat[l][c] != #
