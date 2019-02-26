@@ -5,7 +5,7 @@
 
 -	Com quem voce fez?
 
-    * Foi feito em sala, mas noprincesa2 eu consegui apenas fazer a parte de percorrer no vetor com os valores negativos.
+    * Foi feito em sala, mas no princesa2 eu consegui apenas fazer a parte de percorrer no vetor com os valores negativos.
 -	O que aprendeu e sabe fazer?
 
     * Aprendi a usar o mob e entender como funciona.
