@@ -1,7 +1,7 @@
 # 02_Queimada
 -	O que voce fez?
 
-    * Fiz um programa que é escolhido uma árvore para ser queimada e a partir dela ela queima as vizinhas.
+    * Fiz um programa que é escolhido uma árvore para ser queimada e a partir dela ela queima as vizinhas. E marquei com 'X' por onde o fogo passou novamente.
 
 -	Com quem voce fez?
 
